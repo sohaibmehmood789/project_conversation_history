@@ -31,5 +31,3 @@ rspec ./spec
 
 ![Project Chat](public/1.png)
 ![Project Chat](public/2.png)
-![Project Chat](public/3.png)
-![Project Chat](public/4.png)
